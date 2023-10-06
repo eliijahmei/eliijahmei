@@ -15,10 +15,7 @@
 #### Studying
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht=40 height=40/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" widht=40 height=40/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht=40 height=40/>
           
-
-
 ##
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors</b></p>  
