@@ -17,6 +17,8 @@
 
 ##
 
+![snake gif](https://github.com/eliijahmei/eliijahmei/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 <br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eliijahmei}/count.svg" /></p> 
