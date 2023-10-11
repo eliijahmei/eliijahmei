@@ -26,5 +26,11 @@
 <div align="center"> 
 <a href="https://www.linkedin.com/in/melissa-gouveia-b0727026a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2F7t86uzXQhq35oNCbjY5cQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>       
+
+##
+
+<img align="center"  src="https://media.giphy.com/media/Ssts7rvD7E01O/giphy.gif">
  
+##
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d6151&height=120&section=footer"/>
