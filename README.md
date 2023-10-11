@@ -29,7 +29,9 @@
 
 ##
 
-<img align="center"  src="https://media.giphy.com/media/Ssts7rvD7E01O/giphy.gif">
+<div align="center">
+<img  src="https://media.giphy.com/media/Ssts7rvD7E01O/giphy.gif">
+</div>
  
 ##
 
